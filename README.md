@@ -29,7 +29,9 @@ This repository is the central hub for discovering, proposing, and tracking coll
 4. **Credit & Share** — Every significant contribution is recorded. Finished work is celebrated with clear attribution.
 5. **Iterate or Archive** — Projects can evolve, pause, or complete. Everything stays discoverable.
 
-The whole process is designed to be **low-friction** while protecting trust through transparent credit.
+**Governance**: All rules for attribution, free-core materials, teaching approval, monetization, Libraries, and Education are defined in the new [GOVERNANCE.md](GOVERNANCE.md). This includes the formal "Teaching Approval Request" process (required even for major contributors; non-contributors may also be approved by moderators). See also [standards/LIBRARY-STANDARDS.md](standards/LIBRARY-STANDARDS.md) and [standards/EDUCATION-STANDARDS.md](standards/EDUCATION-STANDARDS.md).
+
+The whole process is designed to be **low-friction** while protecting trust through transparent credit and clear qualification for any paid or official teaching activities.
 
 ---
 

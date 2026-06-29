@@ -28,6 +28,28 @@ We use a shared vocabulary of roles that translate well across fields:
 | **Project Lead**      | Coordinates the project, keeps momentum, helps resolve blockers. **Must be an approved Moderator** who oversees the project and makes sure all ethical guidelines are being followed | Often the person who feels most ownership |
 | **Domain Expert**     | Brings deep knowledge in a specific field the project needs                 | Physicist advising on quantum concepts; Historian providing accurate context |
 | **Researcher**        | Gathers, synthesizes, or analyzes information, data, or sources             | Literature review, data collection, background reading |
+
+## Recommended Contributors Table (with AI Transparency Column)
+
+Use this table in `ATTRIBUTION.md`, `CONTRIBUTORS.md`, or project READMEs. It efficiently combines human credit with optional AI/tool-assisted work transparency (per GOVERNANCE.md and CODE_OF_CONDUCT.md). The "AI Agent and/or Model" column supports "none", "'undisclosed'", or specific citations while noting human direction and final responsibility.
+
+```markdown
+## Contributors & Credit
+
+| Name / Handle          | Primary Role(s)              | Contributions                                      | X / Contact          | Email                     | AI Agent and/or Model |
+|------------------------|------------------------------|----------------------------------------------------|----------------------|---------------------------|-----------------------|
+| Alex Rivera            | Originator, Project Lead     | Initial concept, coordination, final synthesis     | @alexrivera          | alex@example.com          | Joseph / Gemini Flash |
+| Dr. Priya Patel        | Domain Expert (Physics)      | Quantum mechanics accuracy, model review           | @priyapatel          | priya@example.com         | 'undisclosed'         |
+| Jordan Lee             | Developer + Writer           | Core simulation code, documentation                | @jordanlee           | jordan@example.com        | Ben-Coding / Local Private |
+| Sam Chen               | Designer                     | Diagrams, project visual identity                  | @samchen             | sam@example.com           | none / Claude Fable 5 |
+```
+
+**Notes**:
+- Human direction, curation, verification, and final responsibility are primary — note this in the Contributions column or a footer when AI was used.
+- Add this table to new projects for full transparency and community standards.
+- See `templates/contributors-table.md` for a copy-paste version.
+
+## Philosophy
 | **Writer / Narrator** | Crafts prose, documentation, explanations, or final outputs                 | Blog post, paper section, project narrative |
 | **Developer / Builder**| Implements software, models, simulations, tools, or technical systems     | Writing code, building prototypes, data pipelines |
 | **Designer**          | Visual design, UX, systems thinking, diagrams, branding                     | Creating figures, interface mockups, information architecture |
@@ -50,17 +72,17 @@ Every project that reaches the "Active" stage should have one of these:
 1. **Preferred**: A `CONTRIBUTORS.md` file in the project folder (or linked repo) with a table.
 2. A clearly marked **"Contributors & Credit"** section in the main project README.
 
-Example table format (include Email where contributors are comfortable sharing it publicly):
+Example table format (only include Email when / where contributors are comfortable sharing it publicly):
 
 ```markdown
 ## Contributors & Credit
 
-| Name / Handle          | Primary Role(s)              | Contributions                                      | X / Contact          | Email                     |
+| Name / Handle          | Primary Role(s)              | Contributions                                      | X / Contact          | Email                     | AI Agent and/or Model | 
 |------------------------|------------------------------|----------------------------------------------------|----------------------|---------------------------|
-| Alex Rivera            | Originator, Project Lead     | Initial concept, coordination, final synthesis     | @arivera             | alex@example.com          |
-| Dr. Priya Patel        | Domain Expert (Physics)      | Quantum mechanics accuracy, model review           | @priyaphysics        | priya@example.com         |
-| Jordan Lee             | Developer + Writer           | Core simulation code, documentation                | @jordanlee           | jordan@example.com        |
-| Sam Chen               | Designer                     | Diagrams, project visual identity                  | @samchen_design      | sam@example.com           |
+| Alex Rivera            | Originator, Project Lead     | Initial concept, coordination, final synthesis     | @alexrivera          | alex@example.com          |  Joseph / Gemini Flash |
+| Dr. Priya Patel        | Domain Expert (Physics)      | Quantum mechanics accuracy, model review           | @priyapatel   | priya@example.com         | 'undisclosed' | 
+| Jordan Lee             | Developer + Writer           | Core simulation code, documentation                | @jordanlee           | jordan@example.com        | Ben-Coding / Local Private |
+| Sam Chen               | Designer                     | Diagrams, project visual identity                  | @samchen     | sam@example.com           | none / Claude Fable 5 |
 ```
 
 ### For Completed or Published Work
@@ -83,7 +105,7 @@ For very early discussions or one-off contributions, a simple list in the GitHub
 - Truly anonymous contributions are possible but we prefer named credit when feasible.
 
 **AI / Tool-assisted work**
-- If significant work was done with AI tools, we note the human guidance, curation, and final responsibility. The human(s) who directed and verified the work receive credit.
+- If significant work was done with AI tools, we note the human guidance, curation, and final responsibility. The human(s) who directed and verified the work receive credit. We strongly incourage you to site the models and/or personal agents used, this helps the community with one of its core goals of tracking ethical AI uses and helping the community provide updated information about the current models their strengths and weaknesss and also updating our Community Libraries with proven do's and don't's plus overall good practice for accomplishing the best ways to succeed with the communities goals. 
 
 **Inherited or forked projects**
 - Original contributors from outside this community should be credited where known.
@@ -104,9 +126,9 @@ We default to generosity and inclusion. When in doubt, add the person with a cle
 
 For questions or comments regarding Interwoven Projects, please reach out to the approved moderators:
 
-| Name           | Role          | X @ Handle      | GitHub Account | Email                      |
+| Name           | Role          | X (SN-Name) @-Handle      | GitHub Account | Email Address              |
 |----------------|---------------|-----------------|----------------|----------------------------|
-| Squirrel Rambo | Administrator | @SquirrellyRambo | Squirrel814   | InterwovenProjects@gmail.com |
+| Squirrel Rambo | Administrator | Squirrel - @S3C_Squirrel  | InterwovenProjects@gmail.com |
 
 You can also join the official group chat on X:  
 https://x.com/i/chat/group_join/g2052485957421576616/1IPW0e5lSJ

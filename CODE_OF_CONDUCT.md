@@ -19,7 +19,7 @@ Examples of behavior that contributes to a positive environment for our communit
 
 Examples of unacceptable behavior include:
 
-- The use of sexualized language or imagery, and sexual attention or advances of any kind
+- The use of sexualized language or imagery, and sexual attention or advances of any kind (strictly prohibited in all official, recorded, planned, scheduled, or course-related spaces; in casual non-recorded "Lounge Spaces" we expect mutual respect and kindness among verified participants but allow relaxed friend-like conversation)
 - Trolling, insulting or derogatory comments, and personal or political attacks
 - Public or private harassment
 - Publishing others' private information, such as a physical or email address, without their explicit permission
@@ -33,41 +33,56 @@ Community leaders have the right and responsibility to remove, edit, or reject c
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+This Code of Conduct applies **fully** to all official, recorded, planned, scheduled, course-related, or project spaces. In casual non-recorded "Lounge Spaces" (friend-like hangouts among verified participants), we expect mutual respect, kindness, and the spirit of the pledge above, but allow relaxed conversation. Sexualized language or advances are never acceptable in any space.
+
+It also applies when an individual is officially representing the community in public spaces (official email, social media account, or appointed representative at events).
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by:
-- Opening a private issue in this repository (if the feature is enabled), or
-- Contacting the maintainers via the X community account or direct message to known organizers.
+We recommend enabling private issues in this repository for sensitive reports.
 
-All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the Enforcement Moderator (currently Squirrel GitHub: Squirrel814, X Handle @S3C_Squirrel) 
+Suggested ways to do this:
+- Opening a private issue in this repository, or
+- Contacting the X community account (@S3C_Squirrel or the official community account) or direct message to known organizers/moderators.
 
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+All complaints will be reviewed and investigated promptly, fairly, and with respect for the reporter's privacy.
+
+See the full moderation hierarchy and responsibilities in [GOVERNANCE.md](GOVERNANCE.md) (incorporating the roles from Community-Framework.md: Administrator, Ethics Enforcer, Facilitator, Welcomer, Scheduler/Audits, Community Ambassador, Junior Mod).
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+Community leaders (Enforcement Moderator and designated moderators) will follow these **Community Impact** guidelines in determining the consequences for any action they deem in violation of this Code of Conduct. *Example Actions* are provided for clarity.
 
 ### 1. Correction
 **Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+*Example Actions*: Repeated unwelcomed or demeaning jokes in lounge spaces, repeated derailment of discussion.
 
 **Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
 
 ### 2. Warning
 **Community Impact**: A violation through a single incident or series of actions.
+*Example Actions*: Repeated mild disruptions, derogatory comment in a recorded space.
 
 **Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
 
 ### 3. Temporary Ban
 **Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
+*Example Actions*: Sexualized language in spaces, sustained trolling in official/project spaces, harassment.
 
 **Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
 **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
+*Example Actions*: Repeated harassment, severe ethical violations, pattern of sexualized advances, doxxing.
 
 **Consequence**: A permanent ban from any sort of public interaction within the community.
+
+## AI / Tool-assisted Work (Transparency)
+
+If significant work was done with AI tools (including personal agents or models like Grok), we note the human guidance, curation, and final responsibility. The human(s) who directed, verified, and took ownership of the work receive primary credit. We strongly encourage citing the specific models and/or personal agents used (e.g. "Grok 4.3 assisted with initial drafting under human direction and review"). 
+
+This supports one of our core goals: tracking ethical AI use, sharing strengths and weaknesses of current models, and updating our Community Libraries with proven do's and don'ts plus best practices.
 
 ## Attribution
 

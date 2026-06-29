@@ -7,6 +7,7 @@ Thank you for your interest in collaborating! This document explains the practic
 - We are interdisciplinary by design. Respect different ways of knowing and working.
 - Credit matters. We make contributions visible and portable.
 - We default to kindness, clarity, and generosity.
+- Core materials are permanently free. Teaching or monetization requires formal approval per [GOVERNANCE.md](GOVERNANCE.md).
 - Anyone can propose; anyone can contribute according to their strengths.
 
 ## Quick Ways to Contribute
@@ -17,6 +18,7 @@ Thank you for your interest in collaborating! This document explains the practic
 | Propose a new project                | Use the [Project Proposal form](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/issues/new?template=project-proposal.yml) |
 | Join an existing project             | Comment on its thread or use the [Join Project form](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/issues/new?template=join-project.yml) |
 | Record a contribution you made       | Use the [Contribution Update form](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/issues/new?template=contribution-update.yml) |
+| Request approval to teach or monetize | Use the **Teaching Approval Request** issue (see [GOVERNANCE.md](GOVERNANCE.md) for criteria and commitment language). Required even for major contributors. |
 | Offer feedback or help               | Comment thoughtfully on active Discussions and Issues                         |
 | Improve these guidelines             | Open a PR or Discussion suggesting changes                                    |
 
